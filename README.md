@@ -1,4 +1,4 @@
-# scrumFactory
+# My test for ScrumFactory
 
 1) Create a Javascript object literal with the variable name “MyObject” and the following information:
 
